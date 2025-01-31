@@ -1,7 +1,7 @@
 # Default colors
 [colors.primary]
-background = '#122637'
-foreground = '#ffffff'
+background = '#070918'
+foreground = '#d9c9e9'
 
 [colors.cursor]
 text = '#122637'
